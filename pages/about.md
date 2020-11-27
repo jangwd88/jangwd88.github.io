@@ -9,4 +9,4 @@ permalink: /about/
 
 # About
 
-about.md 파일에서 수정
+about.md 파일에서 수정하면 어바웃이 변경됩니다.
