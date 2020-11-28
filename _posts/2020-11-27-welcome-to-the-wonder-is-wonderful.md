@@ -2,10 +2,9 @@
 date: 2020-11-25 23:48:05
 layout: post
 title: Wonder의 페이지에 오신것을 환영합니다.
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+subtitle: 'Welcome to the Wonder`s page'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  Welcome to the Wonder`s page
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
@@ -14,9 +13,15 @@ category: blog
 tags:
   - welcome
   - blog
-author: thiagorossener
-paginate: true
+author: Wonder Chang
+paginate: false
 ---
+
+## 인사말
+
+안녕하세요!
+
+
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
