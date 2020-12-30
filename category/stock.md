@@ -1,6 +1,6 @@
 ---
 layout: category
-title: STOCK
+title: Stock
 slug: "{{slug}}"
 description: NASDAQ ALL TIME HIGH
 ---
