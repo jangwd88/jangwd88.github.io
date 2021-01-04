@@ -4,8 +4,8 @@ layout: post
 title: tibero export
 subtitle: 티베로 익스포트
 description: 원격 서버 익스포트
-image: /assets/img/uploads/giphy.webp
-optimized_image: /assets/img/uploads/giphy.webp
+image: /assets/img/uploads/db.webp
+optimized_image: /assets/img/uploads/db.webp
 category: work
 tags:
   - tibero
