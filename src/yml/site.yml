@@ -1,13 +1,8 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Wonder
+title: Wonder | Wonder is wonderful
+description: 그냥 메모장
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - notepad
 show_hero: true
 menu:
   - title: Home
@@ -18,5 +13,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: jangwd88@gmail.com
+disqus_username: ""
